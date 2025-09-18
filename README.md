@@ -165,11 +165,3 @@ npm run build  # Build optimized frontend bundle
    - Backend includes CORS middleware
    - Ensure frontend is making requests to correct backend URL
 
-## Future Enhancements
-
-- [ ] Add more trading symbols
-- [ ] Implement order placement functionality
-- [ ] Add price alerts and notifications
-- [ ] Historical price charts integration
-- [ ] Enhanced trade analytics and metrics
-- [ ] User authentication and portfolio tracking
